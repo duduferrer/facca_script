@@ -1,13 +1,14 @@
 # facca_script
 
-Para usar:
+## Para usar:
 
-1 - Peça o extrato do nubank em csv.
-(O cabeçalho deve ter Data	Valor	Identificador	Descrição.)
-No linux
+### 1 - Peça o extrato do nubank em csv.
+<p>(O cabeçalho deve ter Data	Valor	Identificador	Descrição.)</p>
+
+### No linux
 2 - ./extrato_nubank_facca.py NOME_DO_COMPROVANTE
-No windows
+### No windows
 2 - win_extrato_nubank_facca.py NOME_DO_COMPROVANTE
 
-Alternativa:
+## Alternativa:
   Duplo clique no arquivo.
